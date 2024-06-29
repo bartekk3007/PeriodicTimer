@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.AssemblyInfo.cs
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\bin\Debug\net8.0\PeriodicTimerInCSharp.exe
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\bin\Debug\net8.0\PeriodicTimerInCSharp.deps.json
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\bin\Debug\net8.0\PeriodicTimerInCSharp.runtimeconfig.json
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\bin\Debug\net8.0\PeriodicTimerInCSharp.dll
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\bin\Debug\net8.0\PeriodicTimerInCSharp.pdb
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.dll
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\refint\PeriodicTimerInCSharp.dll
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.pdb
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\PeriodicTimerInCSharp.genruntimeconfig.cache
+C:\Users\48571\source\repos\PeriodicTimerInCSharp\obj\Debug\net8.0\ref\PeriodicTimerInCSharp.dll
