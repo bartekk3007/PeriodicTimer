@@ -1,2 +1,2 @@
 # PeriodicTimer
-Program written to demonstrate how improved version of Timer - BetterTimer (written in C#)
+Program written to demonstrate how improved version of Timer - PeriodicTimer (written in C#)
